@@ -1,0 +1,5 @@
+Hello World 
+ I'm Gaji Yaqub 
+ It is so nice to learn 'file handling' in python
+ Hopefully, we get to do wonderful things together
+ Let's go get it
